@@ -19,7 +19,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/362460?v=4
 source:
   project: https://github.com/okta/okta-mcp-server
-  commit: 9a7e9092063d776dffd86ebd7529c957ca439380
+  commit: da0532c9dab5fbf6dea9fe6caa0d0dbd64739a78
 run:
   volumes:
     - "okta-mcp-server-keyring:/root/.local/share/python_keyring"
